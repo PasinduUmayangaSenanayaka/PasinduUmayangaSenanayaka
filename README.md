@@ -1,6 +1,4 @@
-<img src="https://github.com/PasinduUmayangaSenanayaka
-/PasinduUmayangaSenanayaka
-/blob/main/img/gitHubCover.png" alt="Cover Image">
+<img src="https://github.com/pasinduumayangasenanayaka/pasinduumayangasenanayaka/blob/main/img/gitHubCover.png" alt="Cover Image">
 <h1 align="center">
     <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pasindu+Umayanga!;+Back-End+Developer." />
